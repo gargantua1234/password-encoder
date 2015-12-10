@@ -5,10 +5,7 @@
  * Feel free to contact me
  */
 
-namespace Jkan\Component\Password\Encoder;
-
-
-use Jkan\Component\Password\EncodingMethod;
+namespace Jkan\Component\Password;
 
 class Encoder
 {
