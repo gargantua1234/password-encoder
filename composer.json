@@ -1,0 +1,14 @@
+{
+    "name": "jkan/passwordencoder",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php":                      ">=5.3.3"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": { "Jkan\\Component\\Password\\": "src/" }
+    }
+}
